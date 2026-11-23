@@ -13,3 +13,5 @@ My Kitchen Diary v0.5.2 Local Edition
 - 미리보기는 실제 백업 날짜나 기록을 변경하지 않음
 
 [v0.5.3] iPhone 입력창 자동 확대 방지: 입력 필드 16px 이상 고정, 편집창 닫기 시 키보드 포커스 해제. 기존 기록 및 기능 유지.
+
+Version 0.5.4: iPhone editor form fields constrained to panel width; keeps 16px input font zoom fix.
